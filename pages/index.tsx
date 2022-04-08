@@ -4,7 +4,7 @@ import Image from "next/image";
 import styles from "../styles/Home.module.css";
 
 const Home: NextPage = () => {
-  return <div> My first next app </div>;
+  return <div> My first next app -vercel </div>;
 };
 
 export default Home;
